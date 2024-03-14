@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+NOTES_configure_Github_Actions.txt
+
 # C extensions
 *.so
 
