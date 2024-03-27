@@ -4,6 +4,8 @@ __pycache__/
 *$py.class
 
 NOTES_configure_Github_Actions.txt
+NOTES_Test_driven_dev_with_Django.txt
+NOTES_on_Configure_Database
 
 # C extensions
 *.so
