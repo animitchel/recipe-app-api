@@ -7,6 +7,7 @@ NOTES_configure_Github_Actions.txt
 NOTES_Test_driven_dev_with_Django.txt
 NOTES_on_Configure_Database
 NOTES_create_user_model
+NOTES_on_Django_admin
 
 # C extensions
 *.so
