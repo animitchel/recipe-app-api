@@ -8,6 +8,8 @@ NOTES_Test_driven_dev_with_Django.txt
 NOTES_on_Configure_Database
 NOTES_create_user_model
 NOTES_on_Django_admin
+NOTES_on_API_Documentation
+NOTES_on_Build_user_API
 
 # C extensions
 *.so
@@ -42,7 +44,7 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 
-# Unit test / coverage reports
+# Unit tests / coverage reports
 htmlcov/
 .tox/
 .nox/
